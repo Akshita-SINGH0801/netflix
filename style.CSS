@@ -23,13 +23,13 @@ div{
 .top-left 
 {
   position: absolute;
-  top: 145px;
+  top: 250px;
   left: 20px;
 }
 .original
 {
   position: absolute;
-  top: 130px;
+  top: 225px;
   left: 20px;
 }
 .topleft
@@ -37,7 +37,12 @@ div{
  position: relative;
  top: -70px;
 }
-
+.heera
+{
+  position: absolute;
+  top: 150px;
+  left: 20px;
+}
 .symbol
 {
   margin-left: -750px;
